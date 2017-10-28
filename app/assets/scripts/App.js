@@ -1,1 +1,5 @@
-console.log("This is a test!");
+"use strict";
+
+import MobileMenu from './modules/MobileMenu';
+
+let mobileMenu = new MobileMenu();
